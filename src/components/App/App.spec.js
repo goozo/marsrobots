@@ -1,11 +1,12 @@
 import React from 'react';
 import { expect } from 'chai';
 import { shallow } from 'enzyme';
-import { App, Grid, RobotCommand } from 'containers';
+import { Grid, RobotCommand } from 'containers';
+import { App } from 'components';
 
 describe('App', () => {
 
-  it('can be imported from containers', () => {
+  it('can be imported from components', () => {
     expect(App).to.exist;
   });
 
