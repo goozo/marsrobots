@@ -30,4 +30,4 @@ Most of the functionality was built but with a few caveats:
   - You can only enter one command at a time into the command box. Sorry, copy and paste fail.
   - If a command has a trailing space it won't register.
   - New robots don't check for where lost robots fell off the world, so new robots can still get lost at the same place 
-  (I guess they're off to find their friends)
+  ( I guess they're off to find their friends ;) )
