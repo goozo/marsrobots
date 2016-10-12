@@ -20,9 +20,11 @@ The UI displays the black command entry box and the once initialised with a comm
 #### Usage:
 
 - Enter commands in the black command box followed by pressing enter. (pls see caveats below)
-- Entering `10 10` and pressing enter will generate a grid.
+- Entering `10 10` (or other integers) and pressing enter will generate a grid.
 - Then entering `1 1 N` will creat a new robot at that location.
-- Then entering the movement commands `FFFRFLFF` will then move the robot and it will then output it's location to the command box.
+- Then entering the movement commands e.g. `FFFRFLFF` will move the robot and it will then output its location to the command box.
+- you can have multiple robots but you can only move the last one added.
+- you can move a robot multiple times.
 
 #### Caveats
 
