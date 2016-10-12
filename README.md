@@ -13,7 +13,7 @@ Written with a test first approach (TDD)
 ```
 npm start
 ```
-The UI will load at localhost:8080/webpack-dev-server/  
+The UI will load at localhost:8080  
 
 The UI displays the black command entry box and the once initialised with a command e.g. `10 10` the red mars grid will display below.
 
